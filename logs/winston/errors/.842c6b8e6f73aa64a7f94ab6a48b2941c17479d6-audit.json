@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\development\\apollo\\next\\ph-HealthCare-Server\\logs\\winston\\errors\\.842c6b8e6f73aa64a7f94ab6a48b2941c17479d6-audit.json",
+    "files": [
+        {
+            "date": 1712939737989,
+            "name": "D:\\development\\apollo\\next\\ph-HealthCare-Server\\logs\\winston\\errors\\phu-2024-12-04-22-error.log",
+            "hash": "dddc6c6b7023b85edbc36208e507844afafbc2f66ce7951cac28ff2b3bb7f510"
+        },
+        {
+            "date": 1712941200238,
+            "name": "D:\\development\\apollo\\next\\ph-HealthCare-Server\\logs\\winston\\errors\\phu-2024-12-04-23-error.log",
+            "hash": "e35e4b80335e69a65142127155266dc5a1b8c0dc2edb4e5243eacf8d55b87135"
+        }
+    ],
+    "hashType": "sha256"
+}
